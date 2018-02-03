@@ -1,0 +1,34 @@
+{
+  "name": "AngularJS-Template-Bootstrap4",
+  "description": "",
+  "license": "",
+  "keywords": [
+    "AngularJS",
+    "Angular",
+    "Template",
+    "AngularJS-Template-Bootstrap4",
+    "Node",
+    "Express"
+  ],
+  "authors": [
+    "Brayan Arrieta"
+  ],
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "ignore": [],
+  "dependencies": {
+    "angular": "^1.6.9",
+    "angular-animate": "^1.6.9",
+    "angular-mocks": "^1.6.9",
+    "angular-ui-router": "^0.3.2",
+    "bootstrap": "^4.0.0",
+    "jquery-ui": "^1.12.1",
+    "font-awesome": "^4.7.0",
+    "angular-css": "^1.0.8",
+    "octicons": "^7.1.0"
+  },
+  "private": false
+}
